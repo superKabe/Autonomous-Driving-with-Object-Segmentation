@@ -5,7 +5,6 @@ applying Gaussian blur, and adaptive thresholding to create a binary image. The 
 overlaid onto the original frame, and the resulting image is displayed in real-time. 
 """
 
-
 import cv2
 import numpy as np
 
