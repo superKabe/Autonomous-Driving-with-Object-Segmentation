@@ -3,6 +3,8 @@ Repository for Autonomous Driving with Object Segmentation, a project engineered
 ## Installation
 For the model, follow the README installation instructions in the FastSAM subfolder. 
 For RasPi scripts, you'll need a Raspberry Pi, obviously. And a PiCam or webcam.
+Clone the FastSAM repo from Ultralytics [directly](https://docs.ultralytics.com/models/fast-sam/#fastsam-official-usage).
+This project was built using Python 3.9.
 
 
 ## Usage

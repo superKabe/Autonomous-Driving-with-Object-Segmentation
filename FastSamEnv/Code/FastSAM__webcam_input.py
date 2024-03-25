@@ -86,7 +86,7 @@ while cap.isOpened():
 
     if success:
         results = model(frame,
-                       device="cpu",
+                       device="gpu", # Change based on whether using 'cpu' or 'gpu'
                        retina_masks=True,
                        imgsz=(640,480),
                        conf=0.4,
