@@ -1,4 +1,5 @@
-Repository for Autonomous Driving with Object Segmentation, a project engineered throughout the duration of my Masters in Electronic & Computer Engineering. 
+Repository for code related to the project "Feasibility Testing of Real-Time Object Segmentation and Recognition Models in Small Embedded Systems ", 
+a project engineered throughout the duration of a Masters in Electronic & Computer Engineering. 
 
 ## Installation
 For the model, follow the README installation instructions in the FastSAM subfolder. 
